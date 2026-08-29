@@ -1,4 +1,5 @@
-# VIRHON
+![VIRHON corporation](./virhon-logo-full.png)
+
 Манифест сообщества
 
 ## 1. Система ценностей
